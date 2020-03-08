@@ -3,8 +3,8 @@ title: Uai, Sô! Fly! Aerodesign
 email: me@zuckberj.page
 description: > # this means to ignore newlines until "baseurl:"
   Site da equipe de Aerodesing da UFMG, a Uai, Sô! Fly!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "localhost" # the base hostname & protocol for your site
+baseurl: "/creative-theme-jekyll/" # the subpath of your site, e.g. /blog/
+url: "zuckberj.page" # the base hostname & protocol for your site
 
 facebook_username: uaisoflyaerodesign
 instagram_username: uaisofly
