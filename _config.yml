@@ -1,13 +1,13 @@
 # Site settings
-title: Uai, Sô! Fly!
+title: Uai, Sô! Fly! Aerodesign
 email: me@zuckberj.page
 description: > # this means to ignore newlines until "baseurl:"
   Site da equipe de Aerodesing da UFMG, a Uai, Sô! Fly!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "localhost" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+facebook_username: uaisoflyaerodesign
+instagram_username: uaisofly
 
 # Build settings
 markdown: kramdown
