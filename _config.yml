@@ -1,9 +1,10 @@
 # Site settings
-title:
-email:
+title: Uai, Sô! Fly!
+email: me@zuckberj.page
 description: > # this means to ignore newlines until "baseurl:"
+  Site da equipe de Aerodesing da UFMG, a Uai, Sô! Fly!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "localhost" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
